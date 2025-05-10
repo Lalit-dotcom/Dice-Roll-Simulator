@@ -21,10 +21,10 @@ h1{
 
 @keyframes roll{
     0%{
-        transform: rotateX('0deg') rotateY('0deg');
+        transform: rotateX(0deg) rotateY(0deg);
     }
     100%{
-        transform: rotateX('720deg') rotateY('720deg');
+        transform: rotateX(720deg) rotateY(720deg);
     }
 }
 
